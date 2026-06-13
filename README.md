@@ -1,4 +1,4 @@
-# 🚀 BlogHub: Production-Grade Full-Stack Blog Application
+# 🚀 BlogHub: Full-Stack Blog Application
 
 A premium, production-ready, fully-hardened personal blogging platform featuring a modern **React & Vite** frontend, a scalable **Node.js, Express & TypeScript** backend, and robust **MongoDB** integration.
 
