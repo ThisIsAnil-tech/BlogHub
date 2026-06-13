@@ -1,0 +1,53 @@
+{
+  "home": "Inicio",
+  "blogs": "Blogs",
+  "tags": "Etiquetas",
+  "about": "Acerca de",
+  "contact": "Contacto",
+  "login": "Iniciar sesión",
+  "logout": "Cerrar sesión",
+  "dashboard": "Panel",
+  "profile": "Perfil",
+  "search": "Buscar",
+  "categories": {
+    "technology": "Tecnología",
+    "lifestyle": "Estilo de vida",
+    "travel": "Viajes",
+    "food": "Comida"
+  },
+  "footer": {
+    "description": "Una plataforma de blogs moderna para compartir ideas e historias.",
+    "quickLinks": "Enlaces rápidos",
+    "categories": "Categorías",
+    "followUs": "Síguenos",
+    "subscribe": "Suscríbete a nuestro boletín",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "cookies": "Política de cookies"
+  },
+  "admin": {
+    "parentBlogs": "Blogs principales",
+    "childBlogs": "Blogs secundarios",
+    "comments": "Comentarios",
+    "analytics": "Analíticas",
+    "notifications": "Notificaciones",
+    "settings": "Configuración"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "create": "Crear",
+    "update": "Actualizar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "warning": "Advertencia"
+  }
+}

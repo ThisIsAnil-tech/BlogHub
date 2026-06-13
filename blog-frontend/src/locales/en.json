@@ -1,0 +1,53 @@
+{
+  "home": "Home",
+  "blogs": "Blogs",
+  "tags": "Tags",
+  "about": "About",
+  "contact": "Contact",
+  "login": "Login",
+  "logout": "Logout",
+  "dashboard": "Dashboard",
+  "profile": "Profile",
+  "search": "Search",
+  "categories": {
+    "technology": "Technology",
+    "lifestyle": "Lifestyle",
+    "travel": "Travel",
+    "food": "Food"
+  },
+  "footer": {
+    "description": "A modern blogging platform for sharing ideas and stories.",
+    "quickLinks": "Quick Links",
+    "categories": "Categories",
+    "followUs": "Follow Us",
+    "subscribe": "Subscribe to our newsletter",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  },
+  "admin": {
+    "parentBlogs": "Parent Blogs",
+    "childBlogs": "Child Blogs",
+    "comments": "Comments",
+    "analytics": "Analytics",
+    "notifications": "Notifications",
+    "settings": "Settings"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning"
+  }
+}
